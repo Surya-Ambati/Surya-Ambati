@@ -1,6 +1,6 @@
 # Hi, I'm Surya Ambati
 
-### Quants | Lead Data Engineer | MLOps & Financial Modelling Expert
+### Quants | Lead Data Engineer
 
 ---
 
@@ -16,7 +16,7 @@ I am a seasoned **Quantitative Risk Analyst and Engineer** with 14+ years of exp
 
 ## 🤝 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](LinkedIn:https://www.linkedin.com/in/surya-ambati-51b14219/)
+[![LinkedIn](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](LinkedIn:https://www.linkedin.com/in/surya-ambati-51b14219/)
 
 ---
 
