@@ -94,6 +94,11 @@ I am a seasoned **Quantitative Risk Analyst and Engineer** with 14+ years of exp
 
 ---
 
+### 🔗 AI Frameworks
+![LangChain](https://img.shields.io/badge/LangChain-FFD43B?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
 ### 🧪 Prototype Projects
 
 ![SACCR Tool](https://img.shields.io/badge/SACCR%20Calculation%20Tool-FF4500?style=for-the-badge&logo=flask&logoColor=white)
