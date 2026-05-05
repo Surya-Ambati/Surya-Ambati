@@ -6,7 +6,7 @@
 
 I am a seasoned **Quantitative Risk Analyst and Engineer** with 14+ years of experience building production-grade data pipelines, statistical risk models, and regulatory compliance tools across global financial institutions. I specialize in **market risk**, **credit risk modelling**, and end-to-end **data engineering** at scale, with deep expertise in Basel III/IV regulations, VaR modelling, and advanced stochastic methods.
 
-- 🔭 **Current Role**: CCAT Analyst III at HSBC (Feb 2026 – Present)
+
 - 🌱 **Domain Expertise**: Market Risk · Credit Risk · Regulatory Capital · Stochastic Calculus · Options Pricing
 - ⚙️ **Core Stack**: C++ · C · Python · PySpark · SAS · SQL · GCP BigQuery · Apache Airflow · DBT · Looker · JavaScript · REACT
 - 📐 **Regulations**: Basel III/IV · SR 11-7 · CCAR · FRTB · ICAAP
@@ -16,7 +16,7 @@ I am a seasoned **Quantitative Risk Analyst and Engineer** with 14+ years of exp
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](LinkedIn:https://www.linkedin.com/in/surya-ambati-51b14219/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surya-ambati-51b14219/)
 
 ---
 
@@ -101,6 +101,6 @@ I am a seasoned **Quantitative Risk Analyst and Engineer** with 14+ years of exp
 
 > **SACCR Calculation Tool** – Designed and developed a Basel III-compliant counterparty credit risk tool for automated EAD calculation (RC, adjusted notional, effective notional, add-ons across IRD/CRD/EQD/CMD/FXD). Built with a PyQt5 GUI, CSV/Excel data workflows, and structured reporting output.
 
-> **PLD App** – Full-stack web application built with REACT to automate end-to-end LDP model building and validation, leading a team of 5–6 members.
+> **PLD App** – Full-stack web application built with REACT to parse, find Lineage and decision trees.
 
 
