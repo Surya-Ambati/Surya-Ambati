@@ -8,7 +8,7 @@ I am a seasoned **Quantitative Risk Analyst and Engineer** with 14+ years of exp
 
 
 - 🌱 **Domain Expertise**: Market Risk · Credit Risk · Regulatory Capital · Stochastic Calculus · Options Pricing
-- ⚙️ **Core Stack**: C++ · C · Python · PySpark · SAS · SQL · GCP BigQuery · Apache Airflow · DBT · Looker · JavaScript · REACT
+- ⚙️ **Core Stack**: C++ · C · Python · PySpark · SAS · SQL · GCP BigQuery · Apache Airflow · DBT · Looker · JavaScript · REACT · LangChain
 - 📐 **Regulations**: Basel III/IV · SR 11-7 · CCAR · FRTB · ICAAP
 - 📍 **Location**: India
 
@@ -96,11 +96,10 @@ I am a seasoned **Quantitative Risk Analyst and Engineer** with 14+ years of exp
 ### 🧪 Prototype Projects
 
 ![SACCR Tool](https://img.shields.io/badge/SACCR%20Calculation%20Tool-FF4500?style=for-the-badge&logo=flask&logoColor=white)
-![PLD App](https://img.shields.io/badge/Lower%20Default%20Portfolio%20App-6A0DAD?style=for-the-badge&logo=django&logoColor=white)
-![Risk Prototype](https://img.shields.io/badge/Risk%20Model%20Prototyping-DC143C?style=for-the-badge&logo=python&logoColor=white)
+![PLD App](https://img.shields.io/badge/Lower%20Default%20Portfolio%20App-6A0DAD?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 
 > **SACCR Calculation Tool** – Designed and developed a Basel III-compliant counterparty credit risk tool for automated EAD calculation (RC, adjusted notional, effective notional, add-ons across IRD/CRD/EQD/CMD/FXD). Built with a PyQt5 GUI, CSV/Excel data workflows, and structured reporting output.
 
-> **PLD App** – Full-stack web application built with REACT to parse, find Lineage and decision trees.
-
+> **PLD App** – A full-stack web application built with React to parse data, identify lineage, and visualize decision trees.
 
