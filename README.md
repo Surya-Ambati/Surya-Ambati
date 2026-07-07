@@ -109,3 +109,11 @@ I am a seasoned **Quantitative Risk Analyst and Engineer** with 14+ years of exp
 
 > **PLD App** – A full-stack web application built with React to parse data, identify lineage, and visualize decision trees.
 
+### 📚 Published Author
+
+I am the author of the book **కృత్రిమ మేధ లో మొదటి అడుగు (First Step in AI)**, a comprehensive guide designed to introduce readers to the fundamentals of Artificial Intelligence in Telugu.
+
+👉 [Available on Amazon](https://www.amazon.in/dp/B0H72W49R5/)
+
+[![First Step in AI](https://img.shields.io/badge/Buy%20on-Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](https://www.amazon.in/dp/B0H72W49R5/)
+
